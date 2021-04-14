@@ -29,4 +29,4 @@ S. No	| Title	|Editor(s) assigned	|Status |
 ------|:------|:-----------------:|:------:
 |1. | Index / Order of articles |	Junior Editors	| Nope |
 |2. |	Foreword	| Junior Editors	| Nope |
-|3. |	About Srijan	| Junior Editors	| Nope |
+|3. |	About Srijan	| Junior Editors	| Awaiting approval |
