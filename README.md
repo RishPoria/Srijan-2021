@@ -9,11 +9,11 @@ S.No.   |         Name            | Editor assigned   | Status/Comments   | Conc
 |1. | Olfaction Technology  | | Not Reviewed |  |
 |2. | Social Media and Human Psychology |  | Not Reviewed |  |
 |3. | Bio-printing: Is it the beginning of a new era? |  | Not Reviewed | |
-|4. |  |   | Not Reviewed |  |
-|5. |  |   | Not Reviewed |  |
-|6. |  |   | Not Reviewed |  |
-|7. |  |   | Not Reviewed |  |
-|8. |  |   | Not Reviewed |  |
+|4. | Container Orchestration |   | Not Reviewed |  |
+|5. | Amazon-Alexa |   | Not Reviewed |  |
+|6. | INDIAN JUDICIARY AND TECHNOLOGY |   | Not Reviewed |  |
+|7. | MovingFromPasswordsToAuthenticators |   | Not Reviewed |  |
+|8. | Depression  |   | Not Reviewed |  |
 |9. |  |   | Not Reviewed |  |
 |10. |  |  | Not Reviewed |  |
 |11. |  |  | Not Reviewed |  |
