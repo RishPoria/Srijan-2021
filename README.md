@@ -13,7 +13,7 @@ S.No.   |         Name            | Editor assigned   | Status/Comments   | Conc
 |5. | Amazon-Alexa |   | Not Reviewed |  |
 |6. | INDIAN JUDICIARY AND TECHNOLOGY |   | Not Reviewed |  |
 |7. | MovingFromPasswordsToAuthenticators |   | Not Reviewed |  |
-|8. | Depression  |   | Not Reviewed |  |
+|8. | Analysis of Emotions to predict depression using Machine Learning techniques   |   | Not Reviewed |  |
 |9. |  |   | Not Reviewed |  |
 |10. |  |  | Not Reviewed |  |
 |11. |  |  | Not Reviewed |  |
