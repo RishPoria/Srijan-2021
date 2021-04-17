@@ -14,8 +14,8 @@ S.No.   |         Name            | Editor assigned   | Status/Comments   | Conc
 |6. | INDIAN JUDICIARY AND TECHNOLOGY |   | Not Reviewed |  |
 |7. | MovingFromPasswordsToAuthenticators |   | Not Reviewed |  |
 |8. | Analysis of Emotions to predict depression using Machine Learning techniques   |   | Not Reviewed |  |
-|9. |  |   | Not Reviewed |  |
-|10. |  |  | Not Reviewed |  |
+|9. | Dying languages |   | Not Reviewed |  |
+|10. | Celestial Object Exploration and AI |  | Not Reviewed |  |
 |11. |  |  | Not Reviewed |  |
 |12. |  |  | Not Reviewed |  |
 |13. |  |  | Not Reviewed |  |
