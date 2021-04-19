@@ -4,18 +4,18 @@ Progress of Content
 
 ## Articles
 
-S.No.   |         Name            | Editor assigned   | Status/Comments   | Conclusion 
-:------:|:----------------------- |:-----------------:|:-----------------:|:------------:
-|1. | Olfaction Technology  | | Not Reviewed |  |
-|2. | Social Media and Human Psychology |  | Not Reviewed |  |
-|3. | Bio-printing: Is it the beginning of a new era? |  | Not Reviewed | |
-|4. |  |   | Not Reviewed |  |
-|5. |  |   | Not Reviewed |  |
-|6. |  |   | Not Reviewed |  |
-|7. |  |   | Not Reviewed |  |
-|8. |  |   | Not Reviewed |  |
-|9. |  |   | Not Reviewed |  |
-|10. |  |  | Not Reviewed |  |
+S.No.   |         Name            | Editor assigned   | Edited | Status/Comments   | Conclusion 
+:------:|:----------------------- |:-----------------:|:------:|:-----------------:|:------------:
+|1. | Olfaction Technology  | Kajal/Arpita | Yes (Int. process) | Not Reviewed |  |
+|2. | Social Media and Human Psychology | Kajal/Arpita | Yes (Int. process) | Not Reviewed |  |
+|3. | Bio-printing: Is it the beginning of a new era? | Rishabh | Yes  | Not Reviewed | |
+|4. | Container Orchestration | Rishabh | Yes | Not Reviewed |  |
+|5. | Amazon-Alexa | Rishabh | Yes | Not Reviewed |  |
+|6. | INDIAN JUDICIARY AND TECHNOLOGY | Rishabh | Yes | Not Reviewed |  |
+|7. | MovingFromPasswordsToAuthenticators | Rishabh | Yes | Not Reviewed |  |
+|8. | Analysis of Emotions to predict depression using Machine Learning techniques | Rishabh | Yes | Not Reviewed |  |
+|9. | Dying languages | Rishabh | Yes | Not Reviewed |  |
+|10. | Celestial Object Exploration and AI | Harsh | No | Not Reviewed |  |
 |11. |  |  | Not Reviewed |  |
 |12. |  |  | Not Reviewed |  |
 |13. |  |  | Not Reviewed |  |
@@ -27,6 +27,6 @@ S.No.   |         Name            | Editor assigned   | Status/Comments   | Conc
 ## Other Content
 S. No	| Title	|Editor(s) assigned	|Status |
 ------|:------|:-----------------:|:------:
-|1. | Index / Order of articles |	Junior Editors	| Nope |
-|2. |	Foreword	| Junior Editors	| Nope |
+|1. | Index / Order of articles |	Junior Editors	| TBD |
+|2. |	Foreword	| Junior Editors	| TBD |
 |3. |	About Srijan	| Junior Editors	| Awaiting approval |
