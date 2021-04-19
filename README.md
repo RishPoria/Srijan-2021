@@ -15,7 +15,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |7. | MovingFromPasswordsToAuthenticators | Rishabh | Yes | Not Reviewed |  |
 |8. | Analysis of Emotions to predict depression using Machine Learning techniques | Rishabh | Yes | Not Reviewed |  |
 |9. | Dying languages | Rishabh | Yes | Not Reviewed |  |
-|10. | Celestial Object Exploration and AI | Harsh | No | Not Reviewed |  |
+|10. | Celestial Object Exploration and AI | Harsh | Yes | Not Reviewed |  |
 |11. |  |  | Not Reviewed |  |
 |12. |  |  | Not Reviewed |  |
 |13. |  |  | Not Reviewed |  |
