@@ -18,7 +18,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |10. | Celestial Object Exploration and AI | Harsh | Yes | Not Reviewed |  |
 |11. | Primes and the Million Dollar Mystery | Rishabh | Yes | Not Reviewed |  |
 |12. | Certificate-Based authentication and asymmetric cryptography | Rishabh | Yes | Not Reviewed |  |
-|13. |  |  | Not Reviewed |  |
+|13. | GDPR | Rishabh | Yes |Not Reviewed |  |
 |14. |  |  | Not Reviewed |  |
 |15. |  |  | Not Reviewed |  |
 
