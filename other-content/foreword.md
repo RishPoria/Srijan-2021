@@ -1,6 +1,6 @@
 ## Foreword
 
-The Editorial team of DUCS takes immense pleasure to announce the 10th volume of Srijan successfully, with all new enthusiasm and zeal towards a new era of computer science. 
+The Editorial team of DUCS takes immense pleasure to announce the 11th volume of Srijan successfully, with all new enthusiasm and zeal towards a new era of computer science. 
 
 Keeping the ever-expanding sphere of technology in mind, we've tried to keep the content boundless, imaginative and inquisitive. A variety of topics like <topics> and many more will keep you intrigued.
 
