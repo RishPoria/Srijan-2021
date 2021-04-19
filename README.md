@@ -19,8 +19,8 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |11. | Primes and the Million Dollar Mystery | Rishabh | Yes | Not Reviewed |  |
 |12. | Certificate-Based authentication and asymmetric cryptography | Rishabh | Yes | Not Reviewed |  |
 |13. | GDPR | Rishabh | Yes |Not Reviewed |  |
-|14. |  |  | Not Reviewed |  |
-|15. |  |  | Not Reviewed |  |
+|14. | Digital Surveillance  | Kajal | Yes | Not Reviewed |  |
+|15. | Computer Aided Education |  | No | Not Reviewed |
 
 
 
