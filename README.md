@@ -6,7 +6,7 @@ Progress of Content
 
 S.No.   |         Name            | Editor assigned   | Edited | Status/Comments   | Conclusion 
 :------:|:----------------------- |:-----------------:|:------:|:-----------------:|:------------:
-|1. | Olfaction Technology  | Kajal/Arpita | Yes (Int. process) | Not Reviewed |  |
+|1. | Olfaction Technology  | Arpita | Yes | Reviewed | Yes |
 |2. | Social Media and Human Psychology | Kajal/Arpita | Yes (Int. process) | Not Reviewed |  |
 |3. | Bio-printing: Is it the beginning of a new era? | Rishabh | Yes  | Not Reviewed | |
 |4. | Container Orchestration | Rishabh | Yes | Not Reviewed |  |
