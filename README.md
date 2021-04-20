@@ -13,15 +13,15 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |5. | Amazon-Alexa | Rishabh | Yes | Reviewed | Yes  |
 |6. | INDIAN JUDICIARY AND TECHNOLOGY | Rishabh | Yes | Not Reviewed |  |
 |7. | MovingFromPasswordsToAuthenticators | Rishabh | Yes | Not Reviewed |  |
-|8. | Analysis of Emotions to predict depression using Machine Learning techniques | Rishabh | Yes | Not Reviewed |  |
+|8. | Analysis of Emotions to predict depression using Machine Learning techniques | Arpita | Yes | Not Reviewed |  |
 |9. | Dying languages | Rishabh | Yes | Not Reviewed |  |
 |10. | Exploration of Celestial Bodies and AI | Harsh | Yes | Reviewed | Yes |
 |11. | Primes and the Million Dollar Mystery | Rishabh | Yes | Not Reviewed |  |
 |12. | Certificate-Based authentication and asymmetric cryptography | Rishabh | Yes | Not Reviewed |  |
 |13. | GDPR | Rishabh | Yes |Not Reviewed |  |
 |14. | Digital Surveillance  | Kajal | Yes | Not Reviewed |  |
-|15. | Computer Aided Education |  | No | Not Reviewed |
-
+|15. | Computer Aided Education | Arpita | No | Not Reviewed |
+|16. | Bias in AI Systems | Arpita | No | Not Reviewed |
 
 
 ## Other Content
