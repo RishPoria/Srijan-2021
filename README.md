@@ -20,8 +20,9 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |12. | Certificate-Based authentication and asymmetric cryptography | Rishabh | Yes | Not Reviewed |  |
 |13. | GDPR | Rishabh | Yes |Not Reviewed |  |
 |14. | Digital Surveillance  | Kajal | Yes ✓ | Not Reviewed |  |
-|15. | Computer Aided Education | Arpita | No | Not Reviewed |
-|16. | Bias in AI Systems | Arpita | No | Not Reviewed |
+|15. | Computer Aided Education | Arpita | Yes | Reviewed | Yes|
+|16. | Bias in AI Systems | Arpita | No | Not Reviewed | |
+|17. | AI & VR |  | No | Not Reviewed | |
 
 
 ## Other Content
