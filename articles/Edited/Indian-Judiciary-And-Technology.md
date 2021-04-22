@@ -5,7 +5,7 @@
 | Writer     | Shalini Pathak - MSc I year                                      |
 | Editor     | Rishabh Poria                                                      |
 | Status     | Edited |
-| Plagiarism | 11%. [Report]()|
+| Plagiarism | 11%. [Report](https://github.com/RishPoria/Srijan-2021/blob/main/articles/plagReports/IndianJudiciaryAndTechnology.pdf)|
 
 ---
 

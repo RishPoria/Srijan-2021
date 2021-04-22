@@ -6,7 +6,7 @@
 | Writer     | Nidhi Sangwan - MCA I year                                      |
 | Editor     | Rishabh Poria                                                      |
 | Status     | Edited |
-| Plagiarism | 0%. [Report]()|
+| Plagiarism | 0%. [Report](https://github.com/RishPoria/Srijan-2021/blob/main/articles/plagReports/PrimesAndMillionDollarMystery.pdf)|
 
 ---
 
