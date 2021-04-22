@@ -6,7 +6,7 @@
 | Writer     |Shradha Kedia - MCA 1st year                                    |
 | Editor     | Rishabh Poria                                                      |
 | Status     | Edited |
-| Plagiarism | 7%. [Report](https://github.com/RishPoria/Srijan-2021/blob/main/articles/plagReports/3D-BioPrinting.pdf)|
+| Plagiarism | 4%. [Report](https://github.com/RishPoria/Srijan-2021/blob/main/articles/plagReports/3D-BioPrinting.pdf)|
 
 In recent years, 3D Bioprinting has emerged as a promising approach for tissue regeneration. Medical professionals and engineers are now able to 3D print prosthetic hands and surgical tools. Bioprinting has begun to transform the field of tissue engineering and medicines. 
 	
