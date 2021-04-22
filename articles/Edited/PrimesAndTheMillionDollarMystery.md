@@ -1,0 +1,28 @@
+# Primes and the Million Dollar Mystery
+
+
+| Question   | Answer                                                            |
+| ---------- | ----------------------------------------------------------------- |
+| Writer     | Nidhi Sangwan - MCA I year                                      |
+| Editor     | Rishabh Poria                                                      |
+| Status     | Edited |
+| Plagiarism | 0%. [Report]()|
+
+---
+
+Every person encounters Prime Numbers in their lives as they have extreme importance in fields of Information security, Quantum Physics and most importantly Mathematics. Prime numbers have been studied for years and many prominent mathematicians contributed for the same. Greek mathematician Euclid proved in his theorem on 'The Infinitude of Prime Numbers' that there exist countably infinite primes. He also stated that every number is either a prime or product of prime numbers in his Fundamental Theorem of Arithmetic. Other theories state that there exist infinitely many pairs of prime numbers which are only two units away from each other. Even after so many theorems and proofs explaining the nature of prime numbers, one of the most important unsolved problems in mathematics is the Riemann hypothesis. It is one of the millennium problems of the Clay Institute and the person who solves it wins a One Million Dollar prize. 
+German mathematician Bernhard Riemann in his Riemann hypothesis concerns the pattern and distribution of prime numbers which has a strong connection with the Prime Number Theorem in Number Theory.
+
+The Prime Number Theorem, which Riemann first tried to prove when he was proposing his hypothesis, states that for large values of x, π(x) is approximately equal to x/ln(x) where π(x) is an approximate value for the number of primes between 0 and the number x. However, no function yet exists that tells the exact location of each prime number on the real line. 
+
+The Riemann hypothesis states that the zeros of the Riemann Zeta function exist on a specific line in the complex plane. However, the Riemann Zeta function being a complex-valued function makes it difficult to determine these values. At present, almost 100 billion of the infinitely many zeros have been observed and they all satisfy the Riemann hypothesis.
+
+The Riemann Zeta function equates to zero for all negative even numbers known as trivial zeros, but these are not the only zeros. The other ones known as nontrivial zeros are the main concern as they exhibit a very compelling pattern which is the central theme of the Riemann hypothesis. Riemann explained in his 1859 paper that all of the nontrivial zeros of the Riemann Zeta function lie inside a single region between 0 and 1 on the real axis called the critical strip. Riemann hypothesized that they do not just lie somewhere in the strip but on a single vertical line whose real part equals to ½; this statement is the Riemann hypothesis. This vertical line, known as the critical line, is located in the centre of the critical strip. Zeros of the Riemann Zeta function yield impressive results concerning prime numbers and related objects in number theory. So if the Riemann hypothesis is proven correct, we will be able to predict the exact location of the prime numbers.
+
+Hundreds of theorems exist whose base is laid down on the assumption that the Riemann hypothesis is true. Consequently, if the Riemann hypothesis is disproved, all of these theorems will collapse and it would be a disaster for mathematics as we currently understand it. The Riemann hypothesis has implications in other fields as well. Research has suggested that the locations of the zeros of the Zeta function might have importance in Quantum Physics. However, the significance of the Riemann hypothesis in the field of Information security and encryption pales everything out.
+
+Prime factors of a natural number greater than one can be determined by creating factor trees. But for larger numbers, it requires a lot of time and hard work to find each factor until only prime numbers are left as this can only be accomplished by an algorithm with a runtime complexity of the square root of a number. Trying to factor a number greater than the immense Graham's number would take a lifetime; even supercomputers are not that efficient in the factorization of such large numbers. Modern encryption methods take advantage of this weakness and open up a whole new branch of Mathematics and Computer Science, i.e., Cryptography.
+
+Proof for the Riemann hypothesis can lead mathematicians to obtain easier and optimized methods to locate larger primes. It could have the potential to tail end the current encryption methods. If we already know where the primes are and that is what Riemann hypothesis is about, then instead of trying every number, we only have to pick the zeros of the Riemann Zeta function and because of that, many systems that are intended to be secure, such as military-government communications and banking transactions could potentially no longer be protected. Mathematicians and scientists work for years and dedicate their lives to the pursuit of knowledge. But, is it the right thing to do, pursuing something we know can negatively impact information security?
+
+It seems we are nowhere close to the proof for the Riemann hypothesis yet. However, knowing the potential of the Riemann hypothesis and its effect on modern encryption methods might encourage computer scientists to develop more secure, more advanced encryption algorithms and reduce the dependency on prime numbers, thereby encouraging further innovation and progress in the field of Network Security.
