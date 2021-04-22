@@ -14,7 +14,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |6. | INDIAN JUDICIARY AND TECHNOLOGY | Rishabh | Yes | Not Reviewed |  |
 |7. | MovingFromPasswordsToAuthenticators | Rishabh/Ashwani | Yes | Not Reviewed |  |
 |8. | Analysis of Emotions to predict depression using Machine Learning techniques | Arpita | Yes | Not Reviewed |  |
-|9. | Dying languages | Rishabh | Yes | Not Reviewed |  |
+|9. | Dying languages | Rishabh | Yes ✓ | Not Reviewed |  |
 |10. | Exploration of Celestial Bodies and AI | Harsh | Yes ✓ | Reviewed | Yes |
 |11. | Primes and the Million Dollar Mystery | Rishabh | Yes | Not Reviewed |  |
 |12. | Certificate-Based authentication and asymmetric cryptography | Rishabh/Ashwani | Yes | Not Reviewed |  |
