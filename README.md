@@ -21,7 +21,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |13. | GDPR | Rishabh | Yes |Not Reviewed |  |
 |14. | Digital Surveillance  | Kajal | Yes ✓ | Not Reviewed |  |
 |15. | Computer Aided Education | Arpita | Yes ✓ | Reviewed | Yes|
-|16. | Bias in AI Systems | Arpita | Yes | Reviewed | Yes |
+|16. | Bias in AI Systems | Arpita | Yes ✓ | Reviewed | Yes |
 |17. | AI & VR |  | No | Not Reviewed | |
 
 
