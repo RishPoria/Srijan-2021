@@ -5,7 +5,7 @@
 | Writers     | Prashant, Anjali Singh - MCA I year                                      |
 | Editor     | Rishabh Poria                                                      |
 | Status     | Edited |
-| Plagiarism | 0%. [Report](https://github.com/RishPoria/Srijan-2021/blob/main/articles/plagReports/GDPR.pdf)|
+| Plagiarism | 7%. [Report](https://github.com/RishPoria/Srijan-2021/blob/main/articles/plagReports/GDPR.pdf)|
 
 ---
 The General Data Protection Regulation (GDPR), is a law enforced by the European parliament in European Union (EU) and European Economic Area (EEA) that allows the owners to have full control on their data by assigning obligations to service providers who manage and process personal data. First implemented on 25 May 2018, the law simplifies the regulatory environment for international business by unifying the regulation within the EU.
