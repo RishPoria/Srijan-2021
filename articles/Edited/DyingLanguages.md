@@ -7,7 +7,7 @@
 | Writer     | Tania Aggarwal - MCA I year                                      |
 | Editor     | Rishabh Poria                                                      |
 | Status     | Edited |
-| Plagiarism | 0% [Report](https://github.com/RishPoria/Srijan-2021/blob/main/articles/plagReports/DyingLanguages.pdf)|
+| Plagiarism | None [Report](https://github.com/RishPoria/Srijan-2021/blob/main/articles/plagReports/DyingLanguages.pdf)|
 
 ---
 
