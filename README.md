@@ -24,6 +24,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |16. | Bias in AI Systems | Arpita | Yes | Reviewed | Yes |
 |17. | AI & VR | Ashwani | No | Not Reviewed | |
 |18. | Images and Dimensions | Arpita | No | Not Reviewed | No |
+|19. | Rewriting Life | - | No | Not Reviewed | No |
 
 
 ## Other Content
