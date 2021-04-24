@@ -3,7 +3,7 @@
 
 | Question   | Answer                                                            |
 | ---------- | ----------------------------------------------------------------- |
-| Writer     |Rishabh Poria- MCA Class of 2023                                    |
+| Writer     | Harsh Asrani - MSc 1st year                                   |
 | Editor     | Ashwani Varshney                                                      |
 | Status     | Edited |
 | Plagiarism | 0%. [Report](https://github.com/RishPoria/Srijan-2021/blob/main/articles/plagReports/Social%20Media%20and%20Human%20Psychology.pdf)|
