@@ -16,9 +16,9 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |8. | Analysis of Emotions to predict depression using Machine Learning techniques | Arpita | No | Not Reviewed | No |
 |9. | Dying languages | Rishabh | Yes | Not Reviewed |  |
 |10. | Exploration of Celestial Bodies and AI | Harsh | Yes | Reviewed | Yes |
-|11. | Primes and the Million Dollar Mystery | Rishabh | Yes | Not Reviewed |  |
+|11. | Primes and the Million Dollar Mystery | Rishabh | Yes | Reviewed | Yes |
 |12. | Certificate-Based authentication and asymmetric cryptography | Rishabh/Ashwani | No | Not Reviewed |  |
-|13. | GDPR | Rishabh | Yes | Not Reviewed |  |
+|13. | GDPR | Rishabh | Yes | Reviewed | Yes |
 |14. | Digital Surveillance  | Kajal | Yes | Not Reviewed |  |
 |15. | Computer Aided Education | Arpita | Yes | Reviewed | Yes|
 |16. | Bias in AI Systems | Arpita | Yes | Reviewed | Yes |
