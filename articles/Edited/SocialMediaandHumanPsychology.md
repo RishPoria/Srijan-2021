@@ -1,0 +1,22 @@
+# Social Media and Human Psychology
+---
+
+| Question   | Answer                                                            |
+| ---------- | ----------------------------------------------------------------- |
+| Writer     |Rishabh Poria- MCA Class of 2023                                    |
+| Editor     | Ashwani Varshney                                                      |
+| Status     | Edited |
+| Plagiarism | 0%. [Report](https://github.com/RishPoria/Srijan-2021/blob/main/articles/plagReports/Social%20Media%20and%20Human%20Psychology.pdf)|
+ 
+It is very well known and discussed how social media affects the human brain. It is proven to have reduced concentration span and results in increased anxiety and depression levels among the youth because of the “perfect life illusion.” However, little is known about the effect caused by social media on the human brain and the perception of time. 
+
+Let us take a look at how humans perceive time. Just how optical illusions are distortions of our sense of time, temporal illusions are distortions of how we perceive time. It is far too often experienced by all of us to be ignored. Think of how ten minutes waiting in a line seems like forever, but a day with your friends seems to just fly by. It is also how we look at some events in the past and realize that it has been that long. It is realized when the fact suddenly dawns upon you that the movie you watched in the theatre and believed to be not too old is now more than a decade old. It makes you suddenly realize you are that old.
+
+There are two ways we humans feel time – prospective and retrospective. When you have to guess and understand the passage of time, as it passes by, in the exact moment, it is feeling it prospectively. On the other hand, if you look back at the moment to judge how much time it took, how vivid your memory is of that moment, you feel time retrospectively. A couple of hours-long delays at the airport before a holiday looks pretty long, while an exciting week at the destination flies by. This is how you felt about those events prospectively; at the moment, those two hours felt extremely long while the fun week was short. However, when you think back about the holiday, the delay at the airport seems like a short while, whereas the holiday seems to be a much more significant part of your life. This is a pretty common pattern; prospectively, long tasks often take up a short span retrospectively, while on the other hand, the moment that flies by is often a long memory while you are looking back.
+
+How you feel about an activity is determined by whether the activity is an empty or full activity. An empty activity is monotonous, unimportant, unstimulating to the person undertaking it, whereas a total activity is filled with sensations, novelties, and challenges. These are the kind of activities that actually make up your life, whereas the empty activities are barely the fillers you do. It is believed that prospective time feels fast when the activity is total because you are not focussed on time. You don’t notice it passing by as you are deeply engrossed in the activity itself. 
+
+Smartphones and the internet made information access and communication easier and faster, but along with that, they brought a new level and pace of exposure to ideas and conflict. However, this is not how we were biologically built. To physically adapt to all of this, we have to consume information in an increasingly dehumanized, decontextualized, and decentralized way, say an infinite scrolling webpage with an endless supply of memes, videos, and mildly relatable content. Each next bit of information is unrelated to the last, just how posts are, our participation is not acknowledged or assumed, just how likes for these posts are, and all this information is fed at such a rapid pace only through our eyes and ears. 
+
+In the pattern regarding short – long and long-short, the paradox created by social media is that it is short on both ends. You don’t realize when the time passes by while you are using it, and you don’t remember it afterward as a significant. You don’t feel bored during it, but it is not present in your memory as an important event. It burns our time on both ends. It feels shorter during and afterward. What this results in is the wastage of time without any memorable moments. Potentially this can lead to a skewed understanding of time, which is a crucial innate skill. Thus, social media should be approached with extreme caution and restraint. 
+
