@@ -7,7 +7,7 @@ Progress of Content
 S.No.   |         Name            | Editor assigned   | Edited | Status/Comments   | Conclusion 
 :------:|:----------------------- |:-----------------:|:------:|:-----------------:|:------------:
 |1. | Olfaction Technology  | Arpita | Yes | Reviewed | Yes |
-|2. | Social Media and Human Psychology | Ashwani | Yes  | Not Reviewed |  |
+|2. | Social Media and Human Psychology | Ashwani | Yes  | Reviewed | Yes |
 |3. | Bio-printing: The beginning of a new era? | Rishabh | Yes | Reviewed | Yes |
 |4. | Container Orchestration | Rishabh | Yes | Not Reviewed | Yes |
 |5. | Amazon-Alexa | Rishabh | Yes | Reviewed | Yes  |
@@ -22,9 +22,10 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |14. | Digital Surveillance  | Kajal | Yes | Not Reviewed |  |
 |15. | Computer Aided Education | Arpita | Yes | Reviewed | Yes|
 |16. | Bias in AI Systems | Arpita | Yes | Reviewed | Yes |
-|17. | AI & VR | Ashwani | No | Not Reviewed | |
+|17. | AI & VR | Ashwani | Yes | Reviewed | |
 |18. | Images and Dimensions | Arpita | No | Not Reviewed | No |
 |19. | Rewriting Life | - | No | Not Reviewed | No |
+|20. | Myths of BERT | Ashwani | Yes | Reviewed | Yes |
 
 
 ## Other Content
