@@ -19,7 +19,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |11. | Primes and the Million Dollar Mystery | Rishabh | Yes | Reviewed | Yes |
 |12. | Certificate-Based authentication and asymmetric cryptography | Rishabh/Ashwani | No | Not Reviewed |  |
 |13. | GDPR | Rishabh | Yes | Reviewed | Yes |
-|14. | Digital Surveillance  | Kajal | Yes | Not Reviewed |  |
+|14. | Digital Surveillance  | Kajal | Yes | Reviewed | Yes |
 |15. | Computer Aided Education | Arpita | Yes | Reviewed | Yes|
 |16. | Bias in AI Systems | Arpita | Yes | Reviewed | Yes |
 |17. | AI & VR | Ashwani | Yes | Not Reviewed | |
