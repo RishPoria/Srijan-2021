@@ -22,7 +22,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |14. | Digital Surveillance  | Kajal | Yes | Reviewed | Yes |
 |15. | Computer Aided Education | Arpita | Yes | Reviewed | Yes|
 |16. | Bias in AI Systems | Arpita | Yes | Reviewed | Yes |
-|17. | AI & VR | Ashwani | Yes | Not Reviewed | |
+|17. | AI & VR | Ashwani | No | Not Reviewed | No |
 |18. | Images and Dimensions | Arpita | No | Not Reviewed | No |
 |19. | Rewriting Life | - | No | Not Reviewed | No |
 |20. | Myths of BERT | Ashwani | Yes | Reviewed | Yes |
