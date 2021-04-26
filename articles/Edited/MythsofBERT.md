@@ -6,7 +6,7 @@
 
 | Question   | Answer                                                            |
 | ---------- | ----------------------------------------------------------------- |
-| Writer     |Ashwani Varshney - MSc Class of 2021                               |
+| Writer     |Ashwani Varshney - MSc II year                               |
 | Editor     | Ashwani                                                      |
 | Status     | Edited |
 | Plagiarism | 0%. [Report](https://github.com/RishPoria/Srijan-2021/blob/main/articles/plagReports/Myths%20of%20BERT.pdf)|
