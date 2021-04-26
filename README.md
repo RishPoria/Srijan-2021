@@ -31,6 +31,6 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 ## Other Content
 S. No	| Title	|Editor(s) assigned	|Status |
 ------|:------|:-----------------:|:------:
-|1. | Index / Order of articles |	Junior Editors	| TBD |
+|1. | Index / Order of articles |	Junior Editors	| Done |
 |2. |	Foreword	| Junior Editors	| Done |
 |3. |	About Srijan	| Junior Editors	| Done |
