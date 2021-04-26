@@ -9,6 +9,7 @@
 | Myths of BERT | |
 | Container and Container Orchestration | |
 | Bias in AI Systems | |
+| You Version Your Code, Why Not Database | |
 | Digital Surveillance | |
 | Primes and the Million Dollar Mystery | |
 | Computer-Aided Education | |
@@ -16,3 +17,4 @@
 | Programming Languages on the Verge of Death | |
 | Amazon Alexa Scandal | |
 | General Data Protection Regulation | |
+|  |  |
