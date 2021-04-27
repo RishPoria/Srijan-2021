@@ -25,7 +25,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |17. | Images and Dimensions | Arpita | No | Not Reviewed | No |
 |18. | Rewriting Life | - | No | Not Reviewed | No |
 |19. | Myths of BERT | Ashwani | Yes | Reviewed | Yes |
-|20. | You Version Your Code, Why Not Database | Ashwani | No | Not Reviewed |  |
+|20. | You Version Your Code, Why Not Database | Ashwani | Yes | Reviewed | Yes |
 
 
 ## Other Content
