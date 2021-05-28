@@ -26,6 +26,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |18. | Rewriting Life | - | No | Not Reviewed | No |
 |19. | Myths of BERT | Ashwani | Yes | Reviewed | Yes |
 |20. | You Version Your Code, Why Not Database | Ashwani | Yes | Reviewed | Yes |
+|21. | Technology: Addiction and Detoxification | Harsh | Yes | Reviewed | - |
 
 
 ## Other Content
