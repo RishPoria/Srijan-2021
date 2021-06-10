@@ -1,7 +1,7 @@
 ## Index
 
 |Article | Page No|
-|-----|--------|
+|-----|:--------:|
 | Social Media and Human Psychology | 1-2 |
 | Olfactory Technology | 3-4 |
 | Myths of BERT | 5-7 |
@@ -18,3 +18,4 @@
 | Programming Languages on the Verge of Death | 32-34 |
 | Amazon Alexa Scandal | 35-36 |
 | General Data Protection Regulation | 37-38 |
+| Technology Addiction | 39-41 |
